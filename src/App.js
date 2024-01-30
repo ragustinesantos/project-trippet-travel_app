@@ -6,7 +6,7 @@ import Currency from './pages/Currency';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Routes>
         <Route path="/" element={<WeatherApp />}/>
         <Route path="/Currency" element={<Currency />}/>
