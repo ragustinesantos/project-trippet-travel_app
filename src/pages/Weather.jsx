@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 // Import Components
 import TodayCard from "../components/TodayCard";
@@ -23,9 +24,6 @@ import snowBg from "../assets/snow_bg.jpg";
 import freezeBg from "../assets/freeze_bg.jpg";
 import drizzleBg from "../assets/drizzle_bg.jpg";
 import stormBg from "../assets/storm_bg.jpg";
-
-import Currency from "./Currency";
-import { Link } from "react-router-dom";
 
 // Weather App Page
 export default function WeatherApp() {

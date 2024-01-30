@@ -82,7 +82,7 @@ export default function Currency() {
 
         setTargetAmount(calcRates[`${target}`])
 
-    }, [calcRates])
+    }, [calcRates, target])
     
     // Create options of currencies based on the currencies array created from the api request
     const selector = currencies.map(currency => {
