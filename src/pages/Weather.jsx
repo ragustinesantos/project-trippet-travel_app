@@ -24,6 +24,9 @@ import freezeBg from "../assets/freeze_bg.jpg";
 import drizzleBg from "../assets/drizzle_bg.jpg";
 import stormBg from "../assets/storm_bg.jpg";
 
+import Currency from "./Currency";
+import { Link } from "react-router-dom";
+
 // Weather App Page
 export default function WeatherApp() {
 
@@ -179,8 +182,8 @@ export default function WeatherApp() {
                 <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                     <div class="navbar-nav">
                         <a class="nav-link" aria-current="page" href="/">Home</a>
-                        <a class="nav-link" href="/">Weather</a>
-                        <a class="nav-link" href='/Currency'>Currency</a>
+                        <Link class="nav-link" to="/">Weather</Link>
+                        <Link class="nav-link" to="/Currency">Currency</Link>
                     </div>
                 </div>
             </div>
