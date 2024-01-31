@@ -6,7 +6,7 @@ import Currency from './pages/Currency';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename='/'>
       <Routes>
         <Route path="/" element={<WeatherApp />}/>
         <Route path="/Currency" element={<Currency />}/>
