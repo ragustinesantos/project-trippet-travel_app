@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/project-trippet-travel_app/static/css/main.58fdaad7.css",
-    "main.js": "/project-trippet-travel_app/static/js/main.e0ce6009.js",
+    "main.js": "/project-trippet-travel_app/static/js/main.bcdde2b9.js",
     "static/js/787.7c2d02ce.chunk.js": "/project-trippet-travel_app/static/js/787.7c2d02ce.chunk.js",
     "static/media/sunny_bg.png": "/project-trippet-travel_app/static/media/sunny_bg.20f59ae3b24f65ff6f55.png",
     "static/media/overcast_bg_2.jpg": "/project-trippet-travel_app/static/media/overcast_bg_2.bb387ab28f7b28deb2b7.jpg",
@@ -22,11 +22,11 @@
     "static/media/trading.png": "/project-trippet-travel_app/static/media/trading.2974e302a6940e23ef1a.png",
     "index.html": "/project-trippet-travel_app/index.html",
     "main.58fdaad7.css.map": "/project-trippet-travel_app/static/css/main.58fdaad7.css.map",
-    "main.e0ce6009.js.map": "/project-trippet-travel_app/static/js/main.e0ce6009.js.map",
+    "main.bcdde2b9.js.map": "/project-trippet-travel_app/static/js/main.bcdde2b9.js.map",
     "787.7c2d02ce.chunk.js.map": "/project-trippet-travel_app/static/js/787.7c2d02ce.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.58fdaad7.css",
-    "static/js/main.e0ce6009.js"
+    "static/js/main.bcdde2b9.js"
   ]
 }
