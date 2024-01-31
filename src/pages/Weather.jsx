@@ -181,7 +181,7 @@ export default function WeatherApp() {
                     <div class="navbar-nav">
                         <a class="nav-link" aria-current="page" href="/">Home</a>
                         <Link class="nav-link" to="/">Weather</Link>
-                        <Link class="nav-link" to="/Currency">Currency</Link>
+                        <a class="nav-link" href='#'>Currency</a>
                     </div>
                 </div>
             </div>
